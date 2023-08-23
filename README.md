@@ -8,5 +8,6 @@ https://sotong.go.kr/front/epilogue/epilogueBbsViewPage.do?bbs_id=c6bff2d7a56e4a
 
 공공데이터 포털에서 데이터를 얻어 진행하였습니다.
 
-동 별 주행형 CCTV, PDA
-image
+# 동 별 주행형 CCTV, PDA
+![image](https://github.com/tklim99/Bigdata_contest_Gwangjin/assets/110584634/3edce4fa-606f-43b9-9889-c140f45296a8)
+
