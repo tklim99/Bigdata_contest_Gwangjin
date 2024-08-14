@@ -51,6 +51,11 @@ https://sotong.go.kr/front/epilogue/epilogueBbsViewPage.do?bbs_id=c6bff2d7a56e4a
   - 지도 시각화: Folium 라이브러리를 활용하여 동별 불법주정차 단속 현황과 주차장 현황을 시각화하였습니다. 이를 통해 광진구 내 불법주정차 단속 빈도가 높은 지역을 쉽게 식별할 수 있도록 하였습니다.
   - 주차장 위치 시각화: 광진구 내 주차장의 위치와 동별 주차장 수를 지도 상에 시각화하여, 주차장 부족 문제를 해결하기 위한 근거 자료를 제공하였습니다.
 
+    <img src='./img/광진구 지도 시각화.png' width='60%' height='40%'>
+    <img src='./img/동별 cctv 단속 횟수.png' width='60%' height='40%'>
+    <img src='./img/동별 자동차 등록대수.png' width='60%' height='40%'>
+    <img src='./img/동별 주차장 수.png' width='60%' height='40%'>
+
 - 결과 해석
 
    - 첫 번째 분석 결과로 광진구에 있는 동 중에서 상위 7개 동으로 요약하여 불법주정차 단속 횟수를 출력합니다. 저희는 안전신문고, 스마트앱(서울시)등 다양한 단속구분이 있었지만, 기관에서 직접적으로 수행하는 주행형CCTV와 PDA에 중점을 두었기 때문에, 이를 바탕으로 동별로 주행형CCTV, PDA 단속 횟수와 함께 비교한 결과 ‘광장동’이 다른 지역에 비해 불법주정차 단속 중 주행형CCTV, PDA 단속 횟수가 높은 것을 확인할 수 있습니다. 
@@ -61,11 +66,6 @@ https://sotong.go.kr/front/epilogue/epilogueBbsViewPage.do?bbs_id=c6bff2d7a56e4a
   - 첫 번째 분석내용을 바탕으로 고정형 CCTV가 아닌 주행형 CCTV와 PDA에 다수의 위반단속이 확인된 ‘광장동’에 대하여 무인 단속 카메라 확충을 제안합니다. 
   - 두 번째 분석내용을 바탕으로 주차장 부족, 자동차 등록 대수와 단속현황이 높은 ‘광장동’에 주차 공간의 확대를 제안합니다
   - CCTV단속을 할 때 고정형CCTV뿐만 아니라 주행형CCTV와 PDA에 단속 당시 위도와 경도 데이터가 추가된다면 확실한 위치에 고정형 CCTV를 확충하여 단속을 강화할 수 있을 것이라고 생각합니다
-
-<img src='./img/광진구 지도 시각화.png' width='60%' height='40%'>
-<img src='./img/동별 cctv 단속 횟수.png' width='60%' height='40%'>
-<img src='./img/동별 자동차 등록대수.png' width='60%' height='40%'>
-<img src='./img/동별 주차장 수.png' width='60%' height='40%'>
 
 <br/>
 
